@@ -1,4 +1,5 @@
-import { str, a, arr, hello, obj, Person } from './component.js';
+import arr, { a, arr, hello, obj, Person } from './component.js';
+import App from './other.js';
 
 
 console.log(str);
@@ -7,4 +8,7 @@ hello();
 
 let person = new Person();
 
-console.log(person);  
+console.log(person);
+
+let newApp = new App("Some random tex");
+console.log(newApp);
