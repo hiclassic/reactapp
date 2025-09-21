@@ -1,0 +1,11 @@
+{
+  "name": "importexport",
+  "version": "1.0.0",
+  "description": "\"Import and Export\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Hares Islam\"",
+  "license": "ISC"
+}
